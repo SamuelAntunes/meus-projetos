@@ -1,0 +1,66 @@
+main {
+    background-color: rgb(140, 210, 197);
+    width: 450px;
+    height: 600px;
+    margin: auto;
+    margin-top: 50px;
+    box-sizing: border-box;
+    border: 3px solid black;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 3px 5px 5px black;
+
+
+}
+
+.caixa {
+    margin-left: 80px;
+    font-size: 30px;
+}
+
+.bloco {
+    margin: 10px;
+    height: 23px;
+    font-size: 20px;
+    height: 28px;
+    width: 120px;
+}
+
+#titulo {
+    text-align: center;
+    font-size: 42px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    border-bottom: 3px solid black;
+    
+    
+}
+
+#b1 {
+    padding-top: 25px;
+}
+
+#peso {
+    
+    margin-left: 25px;
+}
+
+#calcular {
+    font-size: 25px;
+    margin: 20px 0px 30px 100px;
+    padding: 0px 74px;
+    border-radius: 3px;
+
+}
+
+#res {
+    background-color: white;
+    height: 200px;
+    width: 220px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: auto;
+    font-size: 18px;
+    padding: 4px;
+    box-shadow: 3px 5px 5px black;
+}
